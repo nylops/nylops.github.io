@@ -1,9 +1,4 @@
-<!DOCTYPE html>
-<html>
 layout: default
-<head>
-    <title>My Blog</title>
-</head>
 <body>
 
 <h1>My Blog</h1>
@@ -21,4 +16,3 @@ layout: default
 </ul>
 
 </body>
-</html>
